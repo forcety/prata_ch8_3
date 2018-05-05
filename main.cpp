@@ -15,13 +15,6 @@ void getUpperCaseString(string& str)
             str[i] = (char)toupper(ch);
         }
     }
-
-
-//    ch = str[0];
-//    cout << ch << endl;
-//    cout << (char)toupper(ch) << endl;
-//    str[0] = (char)toupper(ch);
-
 }
 
 int main(int argc, char *argv[])
